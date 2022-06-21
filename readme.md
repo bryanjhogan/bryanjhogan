@@ -1,0 +1,6 @@
+* Blogger - [nodogmablog.bryanhogan.net](nodogmablog.bryanhogan.net)
+  - Topics include - [.NET 6](https://nodogmablog.bryanhogan.net/tag/dotnet6/), [Polly](https://nodogmablog.bryanhogan.net/tag/polly), [AWS](https://nodogmablog.bryanhogan.net/tag/aws/) [Entity Framework](https://nodogmablog.bryanhogan.net/tag/entity-framework/)
+* Podcaster - [nodogmapodcast.bryanhogan.net](nodogmapodcast.bryanhogan.net)
+  - Topics include - [.NET](https://nodogmapodcast.bryanhogan.net/tag/dotnet/), [Microservices](https://nodogmapodcast.bryanhogan.net/tag/microservices/), [Health/Mental Health](https://nodogmapodcast.bryanhogan.net/tag/health/)
+* [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003496)
+* Find me on Twitter [@bryanjhogan](https://twitter.com/bryanjhogan)
